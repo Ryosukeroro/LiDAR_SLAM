@@ -9,8 +9,6 @@
 #include <condition_variable>
 #include "icp_matching.h"
 
-#define RAD2DEG(x) ((x)*180./M_PI)
-
 // struct Point {
 //     float x;
 //     float y;
